@@ -9,8 +9,6 @@
 
 **An intelligent content-based movie recommendation system powered by machine learning**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack)
-
 </div>
 
 ---
