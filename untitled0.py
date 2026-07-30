@@ -198,3 +198,12 @@ def recommend(movie):
     print(new_df.iloc[i[0]].title)
 
 recommend('Avatar')
+
+new_df.iloc[1214]
+
+new_df.iloc[1214].title
+
+import pickle 
+pickle.dump(new_df.to_dict() , open('movies_dict.pkl' , 'wb'))
+new_df['title'].values
+new_df.to_dict()
