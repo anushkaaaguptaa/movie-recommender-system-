@@ -128,12 +128,7 @@ movie-recommender-system/
 
 ## 🔑 API Configuration
 
-This project uses The Movie Database (TMDb) API for fetching movie posters. The API key is already configured in the application:
-
-```python
-API_KEY = "8265bd1679663a7ea12ac168da84d2e8"
-```
-
+This project uses The Movie Database (TMDb) API for fetching movie posters. 
 > **Note**: For production use, it's recommended to use environment variables to store API keys securely.
 
 ## 🎓 Dataset
@@ -144,19 +139,6 @@ The model is trained on the **TMDb 5000 Movies Dataset**, which includes:
 - Cast and crew information
 - User ratings and popularity metrics
 
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🐛 Bug Reports & Feature Requests
-
-If you encounter any bugs or have feature requests, please [create an issue](https://github.com/DevanshiGoyal/movie-recommender-system/issues) on GitHub.
 
 ## 📝 Future Enhancements
 
