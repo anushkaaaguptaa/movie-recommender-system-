@@ -207,3 +207,5 @@ import pickle
 pickle.dump(new_df.to_dict() , open('movies_dict.pkl' , 'wb'))
 new_df['title'].values
 new_df.to_dict()
+
+pickle.dump(similarity , open('similarity.pkl' , 'wb'))
